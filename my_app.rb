@@ -8,6 +8,4 @@ get '/hello' do
   erb :index
 end
 
-get '/secret' do
-  'This is a secret page'
-end
+
